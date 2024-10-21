@@ -1,0 +1,27 @@
+{
+  "validUser": {
+    "username": "marianalozanox",
+    "email": "marianalozanox@gmail.com.com",
+    "password": "JahsinuuoinuyHkYhoauTbgakTi2086578!!!!"
+  },
+  "invalidUser": {
+    "username": "invalid_user",
+    "email": "invalid_user@example.com",
+    "password": "wrong_password"
+  },
+  "newUser": {
+    "email": "new_user@example.com",
+    "fullName": "New User",
+    "username": "new_user",
+    "password": "new_password"
+  },
+  "existingUser": {
+    "email": "existing_user@example.com",
+    "fullName": "Existing User",
+    "username": "existing_user",
+    "password": "existing_password"
+  },
+  "nonExistentUser": {
+    "email": "non_existent@example.com"
+  }
+}
